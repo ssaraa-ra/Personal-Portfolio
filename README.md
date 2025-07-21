@@ -2,8 +2,6 @@
 
 A simple, responsive personal portfolio website to showcase my projects and skills.
 
-🔗 [Live Demo] Coming Soon! 
-
 🎯 Built with: HTML • CSS • JavaScript
 
 ## Features
